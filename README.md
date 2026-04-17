@@ -164,7 +164,7 @@ Trigger earlier reorders to account for delays
 ```
 /docs → Full case study reports  
 /visuals → Charts and visualizations  
-/data → Source datasets (if available)  
+/data → Source datasets 
 ```
 
 ---
